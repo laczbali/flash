@@ -1,7 +1,8 @@
 import SegmentedControl from "@/components/SegmentedControl";
 import { colors, spacing } from "@/constants/theme";
+import { loadCategories } from "@/utils/loadCategories";
 import { Stack, useLocalSearchParams } from "expo-router";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import {
   Pressable,
   SafeAreaView,
@@ -15,17 +16,6 @@ type Difficulty = "easy" | "medium" | "hard" | "mixed";
 type SessionLength = "10" | "20" | "30" | "40" | "50" | "inf";
 
 type Category = { name: string; count: number };
-
-const CATEGORIES: Category[] = [
-  { name: "Business", count: 124 },
-  { name: "Travel", count: 86 },
-  { name: "Food", count: 82 },
-  { name: "Emotions", count: 54 },
-  { name: "Hobbies", count: 78 },
-  { name: "Nature", count: 63 },
-  { name: "Technology", count: 41 },
-  { name: "Lifestyle", count: 110 },
-];
 
 const difficultyOptions = [
   { label: "Easy", value: "easy" },
@@ -44,12 +34,17 @@ const sessionLengthOptions = [
 ];
 
 export default function CategorySelectionScreen() {
-  const { mode } = useLocalSearchParams<{ mode: "learn" | "review" }>();
+  const { mode, language } = useLocalSearchParams<{ mode: "learn" | "review"; language: string }>();
   const isReview = mode === "review";
 
   const [difficulty, setDifficulty] = useState<Difficulty>("mixed");
   const [sessionLength, setSessionLength] = useState<SessionLength>("20");
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+  const [categories, setCategories] = useState<Category[]>([]);
+
+  useEffect(() => {
+    loadCategories(language ?? "Romanian").then(setCategories);
+  }, [language]);
 
   return (
     <>
@@ -101,7 +96,7 @@ export default function CategorySelectionScreen() {
 
           {/* Category grid */}
           <View style={styles.grid}>
-            {CATEGORIES.map((cat) => (
+            {categories.map((cat) => (
               <Pressable
                 key={cat.name}
                 style={[

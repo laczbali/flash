@@ -94,7 +94,7 @@ export default function HomeScreen() {
           onPress={() =>
             router.push({
               pathname: "/category-selection",
-              params: { mode: "learn" },
+              params: { mode: "learn", language: targetLanguage.name },
             })
           }
         >
@@ -119,7 +119,7 @@ export default function HomeScreen() {
           onPress={() =>
             router.push({
               pathname: "/category-selection",
-              params: { mode: "review" },
+              params: { mode: "review", language: targetLanguage.name },
             })
           }
         >
