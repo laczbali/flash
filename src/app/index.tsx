@@ -21,8 +21,7 @@ export default function HomeScreen() {
   const [studyMode, setStudyMode] = useState<StudyMode>("manual");
   const [direction, setDirection] = useState<Direction>("en-target");
 
-  // Will be sourced from a language store once language selection is implemented
-  const targetLanguage: Language = { name: "Spanish", code: "ES" };
+  const targetLanguage: Language = { name: "Romanian", code: "RO" };
 
   const directionOptions = [
     { label: `EN → ${targetLanguage.code}`, value: "en-target" },
@@ -92,7 +91,12 @@ export default function HomeScreen() {
         {/* Learn New Words */}
         <Pressable
           style={styles.actionButton}
-          onPress={() => router.push({ pathname: "/category-selection", params: { mode: "learn" } })}
+          onPress={() =>
+            router.push({
+              pathname: "/category-selection",
+              params: { mode: "learn" },
+            })
+          }
         >
           <View style={styles.iconCircle}>
             <Ionicons name="add-circle" size={26} color={colors.primary} />
@@ -112,7 +116,12 @@ export default function HomeScreen() {
         {/* Review Known */}
         <Pressable
           style={styles.actionButton}
-          onPress={() => router.push({ pathname: "/category-selection", params: { mode: "review" } })}
+          onPress={() =>
+            router.push({
+              pathname: "/category-selection",
+              params: { mode: "review" },
+            })
+          }
         >
           <View style={styles.iconCircle}>
             <Ionicons name="book-outline" size={22} color={colors.primary} />
@@ -232,5 +241,4 @@ const styles = StyleSheet.create({
     color: colors.primary,
     letterSpacing: 1.5,
   },
-
 });

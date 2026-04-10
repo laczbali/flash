@@ -1,0 +1,503 @@
+target,english,category,ipa_target,ipa_english
+eu,I,pronoun,/jew/,/aɪ/
+tu,you (singular),pronoun,/tu/,/juː/
+el,he,pronoun,/jel/,/hiː/
+ea,she,pronoun,/ja/,/ʃiː/
+noi,we,pronoun,/noj/,/wiː/
+voi,you (plural),pronoun,/voj/,/juː/
+ei,they (masculine),pronoun,/jej/,/ðeɪ/
+ele,they (feminine),pronoun,/ˈje.le/,/ðeɪ/
+mine,me (stressed),pronoun,/ˈmi.ne/,/miː/
+tine,you (stressed),pronoun,/ˈti.ne/,/juː/
+se,oneself (reflexive),pronoun,/se/,/wʌnˈself/
+mă,me (unstressed),pronoun,/mə/,/miː/
+te,you (unstressed),pronoun,/te/,/juː/
+ne,us (unstressed),pronoun,/ne/,/ʌs/
+vă,you pl. (unstressed),pronoun,/və/,/juː/
+îl,him (unstressed),pronoun,/ɨl/,/hɪm/
+le,them (unstressed),pronoun,/le/,/ðem/
+acesta,this one (masculine),pronoun,/a.ˈt͡ʃes.ta/,/ðɪs wʌn/
+aceasta,this one (feminine),pronoun,/a.ˈt͡ʃe̯as.ta/,/ðɪs wʌn/
+meu,my (masculine),determiner,/mew/,/maɪ/
+mea,my (feminine),determiner,/me̯a/,/maɪ/
+tău,your (masculine),determiner,/təw/,/jɔːr/
+ta,your (feminine),determiner,/ta/,/jɔːr/
+său,his/her (masculine),determiner,/səw/,/hɪz | hɜːr/
+sa,his/her (feminine),determiner,/sa/,/hɪz | hɜːr/
+nostru,our (masculine),determiner,/ˈnos.tru/,/aʊər/
+vostru,your pl. (masculine),determiner,/ˈvos.tru/,/jɔːr/
+lor,their,determiner,/lor/,/ðer/
+acest,this (masculine),determiner,/a.ˈt͡ʃest/,/ðɪs/
+această,this (feminine),determiner,/a.ˈt͡ʃe̯as.tə/,/ðɪs/
+acel,that (masculine),determiner,/a.ˈt͡ʃel/,/ðæt/
+de,of/from,preposition,/de/,/ɒv | frɒm/
+la,at/to,preposition,/la/,/æt | tuː/
+în,in,preposition,/ɨn/,/ɪn/
+cu,with,preposition,/ku/,/wɪð/
+pe,on,preposition,/pe/,/ɒn/
+pentru,for,preposition,/ˈpen.tru/,/fɔːr/
+din,from/out of,preposition,/din/,/frɒm | aʊt əv/
+prin,through,preposition,/prin/,/θruː/
+despre,about,preposition,/ˈdes.pre/,/əˈbaʊt/
+între,between,preposition,/ˈɨn.tre/,/bɪˈtwiːn/
+spre,towards,preposition,/spre/,/təˈwɔːrdz/
+sub,under,preposition,/sub/,/ˈʌndər/
+peste,over/above,preposition,/ˈpes.te/,/ˈoʊvər | əˈbʌv/
+fără,without,preposition,/ˈfə.rə/,/wɪˈðaʊt/
+lângă,near/next to,preposition,/ˈlɨn.ɡə/,/nɪər | nekst tuː/
+după,after/behind,preposition,/ˈdu.pə/,/ˈæftər | bɪˈhaɪnd/
+și,and,conjunction,/ʃi/,/ænd/
+sau,or,conjunction,/saw/,/ɔːr/
+dar,but,conjunction,/dar/,/bʌt/
+că,that,conjunction,/kə/,/ðæt/
+dacă,if,conjunction,/ˈda.kə/,/ɪf/
+iar,and/while,conjunction,/jar/,/ænd | waɪl/
+pentru că,because,conjunction,/ˈpen.tru kə/,/bɪˈkɒz/
+deși,although,conjunction,/ˈde.ʃi/,/ɔːlˈðoʊ/
+nici,neither/nor,conjunction,/nit͡ʃʲ/,/ˈniːðər | nɔːr/
+ci,but rather,conjunction,/t͡ʃi/,/bʌt ˈræðər/
+fie,either/whether,conjunction,/fje/,/ˈiːðər | ˈweðər/
+ori,or/either,conjunction,/orʲ/,/ɔːr | ˈiːðər/
+un,a (masculine),article,/un/,/ə/
+o,a (feminine),article,/o/,/ə/
+cel,the (masculine),article,/t͡ʃel/,/ðə/
+cea,the (feminine),article,/t͡ʃe̯a/,/ðə/
+niște,some,article,/ˈniʃ.te/,/sʌm/
+unu,one,number,/ˈu.nu/,/wʌn/
+doi,two,number,/doj/,/tuː/
+trei,three,number,/trej/,/θriː/
+patru,four,number,/ˈpa.tru/,/fɔːr/
+cinci,five,number,/t͡ʃint͡ʃʲ/,/faɪv/
+șase,six,number,/ˈʃa.se/,/sɪks/
+șapte,seven,number,/ˈʃap.te/,/ˈsevən/
+opt,eight,number,/opt/,/eɪt/
+nouă,nine,number,/ˈno.wə/,/naɪn/
+zece,ten,number,/ˈze.t͡ʃe/,/ten/
+unsprezece,eleven,number,/un.spre.ˈze.t͡ʃe/,/ɪˈlevən/
+doisprezece,twelve,number,/doj.spre.ˈze.t͡ʃe/,/twelv/
+treisprezece,thirteen,number,/trej.spre.ˈze.t͡ʃe/,/ˌθɜːrˈtiːn/
+paisprezece,fourteen,number,/paj.spre.ˈze.t͡ʃe/,/ˌfɔːrˈtiːn/
+cincisprezece,fifteen,number,/t͡ʃint͡ʃi.spre.ˈze.t͡ʃe/,/ˌfɪfˈtiːn/
+șaisprezece,sixteen,number,/ʃaj.spre.ˈze.t͡ʃe/,/ˌsɪksˈtiːn/
+șaptesprezece,seventeen,number,/ʃap.te.spre.ˈze.t͡ʃe/,/ˌsevənˈtiːn/
+optsprezece,eighteen,number,/opt.spre.ˈze.t͡ʃe/,/ˌeɪˈtiːn/
+nouăsprezece,nineteen,number,/no.wə.spre.ˈze.t͡ʃe/,/ˌnaɪnˈtiːn/
+douăzeci,twenty,number,/do.wə.ˈze.t͡ʃʲ/,/ˈtwenti/
+o sută,one hundred,number,/o ˈsu.tə/,/wʌn ˈhʌndrəd/
+o mie,one thousand,number,/o ˈmi.e/,/wʌn ˈθaʊzənd/
+ce,what,question word,/t͡ʃe/,/wɒt/
+cine,who,question word,/ˈt͡ʃi.ne/,/huː/
+unde,where,question word,/ˈun.de/,/wer/
+când,when,question word,/kɨnd/,/wen/
+cum,how,question word,/kum/,/haʊ/
+cât,how much,question word,/kɨt/,/haʊ mʌtʃ/
+de ce,why,question word,/de t͡ʃe/,/waɪ/
+care,which/that,question word,/ˈka.re/,/wɪtʃ | ðæt/
+nu,no/not,particle,/nu/,/noʊ | nɒt/
+da,yes,particle,/da/,/jes/
+mai,more/still,particle,/maj/,/mɔːr | stɪl/
+tot,all/still,particle,/tot/,/ɔːl | stɪl/
+deja,already,particle,/de.ˈʒa/,/ɔːlˈredi/
+doar,only/just,particle,/do̯ar/,/ˈoʊnli | dʒʌst/
+chiar,even/really,particle,/kjar/,/ˈiːvən | ˈrɪəli/
+ca,as/like,particle,/ka/,/æz | laɪk/
+a fi,to be,verb,/a fi/,/tuː biː/
+a avea,to have,verb,/a a.ˈve̯a/,/tuː hæv/
+a face,to do/make,verb,/a ˈfa.t͡ʃe/,/tuː duː | meɪk/
+a putea,to be able,verb,/a pu.ˈte̯a/,/tuː biː ˈeɪbəl/
+a vrea,to want,verb,/a vre̯a/,/tuː wɒnt/
+a ști,to know,verb,/a ʃti/,/tuː noʊ/
+a merge,to go,verb,/a ˈmer.d͡ʒe/,/tuː ɡoʊ/
+a veni,to come,verb,/a ve.ˈni/,/tuː kʌm/
+a da,to give,verb,/a da/,/tuː ɡɪv/
+a lua,to take,verb,/a ˈlu.a/,/tuː teɪk/
+a vedea,to see,verb,/a ve.ˈde̯a/,/tuː siː/
+a spune,to say,verb,/a ˈspu.ne/,/tuː seɪ/
+a crede,to believe,verb,/a ˈkre.de/,/tuː bɪˈliːv/
+a trebui,must/to have to,verb,/a tre.ˈbu.i/,/mʌst | tuː hæv tuː/
+a găsi,to find,verb,/a ɡə.ˈsi/,/tuː faɪnd/
+a sta,to stay/sit,verb,/a sta/,/tuː steɪ | sɪt/
+a pune,to put,verb,/a ˈpu.ne/,/tuː pʊt/
+a dori,to wish,verb,/a do.ˈri/,/tuː wɪʃ/
+a pleca,to leave,verb,/a ple.ˈka/,/tuː liːv/
+a ajunge,to arrive,verb,/a a.ˈʒun.d͡ʒe/,/tuː əˈraɪv/
+a lucra,to work,verb,/a lu.ˈkra/,/tuː wɜːrk/
+a munci,to work hard,verb,/a mun.ˈt͡ʃi/,/tuː wɜːrk hɑːrd/
+a citi,to read,verb,/a t͡ʃi.ˈti/,/tuː riːd/
+a scrie,to write,verb,/a ˈskri.e/,/tuː raɪt/
+a vorbi,to speak,verb,/a vor.ˈbi/,/tuː spiːk/
+a înțelege,to understand,verb,/a ɨn.t͡se.ˈle.d͡ʒe/,/tuː ˌʌndərˈstænd/
+a asculta,to listen,verb,/a as.kul.ˈta/,/tuː ˈlɪsən/
+a mânca,to eat,verb,/a mɨn.ˈka/,/tuː iːt/
+a bea,to drink,verb,/a be̯a/,/tuː drɪŋk/
+a dormi,to sleep,verb,/a dor.ˈmi/,/tuː sliːp/
+a deschide,to open,verb,/a des.ˈki.de/,/tuː ˈoʊpən/
+a închide,to close,verb,/a ɨn.ˈki.de/,/tuː kloʊz/
+a cumpăra,to buy,verb,/a kum.pə.ˈra/,/tuː baɪ/
+a vinde,to sell,verb,/a ˈvin.de/,/tuː sel/
+a plăti,to pay,verb,/a plə.ˈti/,/tuː peɪ/
+a începe,to begin,verb,/a ɨn.ˈt͡ʃe.pe/,/tuː bɪˈɡɪn/
+a termina,to finish,verb,/a ter.mi.ˈna/,/tuː ˈfɪnɪʃ/
+a iubi,to love,verb,/a ju.ˈbi/,/tuː lʌv/
+a plăcea,to like/please,verb,/a plə.ˈt͡ʃe̯a/,/tuː laɪk | pliːz/
+a ajuta,to help,verb,/a a.ʒu.ˈta/,/tuː help/
+a locui,to live/reside,verb,/a lo.ku.ˈi/,/tuː lɪv | rɪˈzaɪd/
+a trăi,to live,verb,/a trə.ˈi/,/tuː lɪv/
+a întâlni,to meet,verb,/a ɨn.tɨl.ˈni/,/tuː miːt/
+a aștepta,to wait,verb,/a aʃ.tep.ˈta/,/tuː weɪt/
+a căuta,to search,verb,/a kəw.ˈta/,/tuː sɜːrtʃ/
+a trimite,to send,verb,/a tri.ˈmi.te/,/tuː send/
+a primi,to receive,verb,/a pri.ˈmi/,/tuː rɪˈsiːv/
+a chema,to call,verb,/a ke.ˈma/,/tuː kɔːl/
+a răspunde,to answer,verb,/a rəs.ˈpun.de/,/tuː ˈɑːnsər/
+a întreba,to ask,verb,/a ɨn.tre.ˈba/,/tuː æsk/
+a explica,to explain,verb,/a eks.pli.ˈka/,/tuː ɪkˈspleɪn/
+a învăța,to learn/teach,verb,/a ɨn.və.ˈt͡sa/,/tuː lɜːrn | tiːtʃ/
+a uita,to forget,verb,/a uj.ˈta/,/tuː fərˈɡet/
+a aminti,to remember,verb,/a a.min.ˈti/,/tuː rɪˈmembər/
+a gândi,to think,verb,/a ɡɨn.ˈdi/,/tuː θɪŋk/
+a simți,to feel,verb,/a sim.ˈt͡si/,/tuː fiːl/
+a arăta,to show,verb,/a a.rə.ˈta/,/tuː ʃoʊ/
+a alege,to choose,verb,/a a.ˈle.d͡ʒe/,/tuː tʃuːz/
+a permite,to allow,verb,/a per.ˈmi.te/,/tuː əˈlaʊ/
+a opri,to stop,verb,/a o.ˈpri/,/tuː stɒp/
+a continua,to continue,verb,/a kon.ti.nu.ˈa/,/tuː kənˈtɪnjuː/
+a schimba,to change,verb,/a skim.ˈba/,/tuː tʃeɪndʒ/
+a folosi,to use,verb,/a fo.lo.ˈsi/,/tuː juːz/
+a rămâne,to remain,verb,/a rə.ˈmɨ.ne/,/tuː rɪˈmeɪn/
+a deveni,to become,verb,/a de.ve.ˈni/,/tuː bɪˈkʌm/
+a exista,to exist,verb,/a eɡ.zis.ˈta/,/tuː ɪɡˈzɪst/
+a părea,to seem,verb,/a pə.ˈre̯a/,/tuː siːm/
+a repeta,to repeat,verb,/a re.pe.ˈta/,/tuː rɪˈpiːt/
+a ruga,to ask/pray,verb,/a ru.ˈɡa/,/tuː æsk | preɪ/
+a cânta,to sing,verb,/a kɨn.ˈta/,/tuː sɪŋ/
+a juca,to play,verb,/a ʒu.ˈka/,/tuː pleɪ/
+a dansa,to dance,verb,/a dan.ˈsa/,/tuː dɑːns/
+a călători,to travel,verb,/a kə.lə.to.ˈri/,/tuː ˈtrævəl/
+a conduce,to drive,verb,/a kon.ˈdu.t͡ʃe/,/tuː draɪv/
+a zbura,to fly,verb,/a zbu.ˈra/,/tuː flaɪ/
+a cădea,to fall,verb,/a kə.ˈde̯a/,/tuː fɔːl/
+a urca,to climb,verb,/a ur.ˈka/,/tuː klaɪm/
+a coborî,to descend,verb,/a ko.bo.ˈrɨ/,/tuː dɪˈsend/
+a alerga,to run,verb,/a a.ler.ˈɡa/,/tuː rʌn/
+a sări,to jump,verb,/a sə.ˈri/,/tuː dʒʌmp/
+a înota,to swim,verb,/a ɨ.no.ˈta/,/tuː swɪm/
+a spăla,to wash,verb,/a spə.ˈla/,/tuː wɒʃ/
+a pregăti,to prepare,verb,/a pre.ɡə.ˈti/,/tuː prɪˈper/
+a găti,to cook,verb,/a ɡə.ˈti/,/tuː kʊk/
+a servi,to serve,verb,/a ser.ˈvi/,/tuː sɜːrv/
+a repara,to repair,verb,/a re.pa.ˈra/,/tuː rɪˈper/
+a construi,to build,verb,/a kon.stru.ˈi/,/tuː bɪld/
+a distruge,to destroy,verb,/a dis.ˈtru.d͡ʒe/,/tuː dɪˈstrɔɪ/
+a crea,to create,verb,/a kre.ˈa/,/tuː kriˈeɪt/
+a descoperi,to discover,verb,/a des.ko.pe.ˈri/,/tuː dɪˈskʌvər/
+a câștiga,to win/earn,verb,/a kɨʃ.ti.ˈɡa/,/tuː wɪn | ɜːrn/
+a pierde,to lose,verb,/a ˈpjer.de/,/tuː luːz/
+a mișca,to move,verb,/a miʃ.ˈka/,/tuː muːv/
+a tăia,to cut,verb,/a tə.ˈja/,/tuː kʌt/
+a adăuga,to add,verb,/a a.dəw.ˈɡa/,/tuː æd/
+a ține,to hold,verb,/a ˈt͡si.ne/,/tuː hoʊld/
+a purta,to carry/wear,verb,/a pur.ˈta/,/tuː ˈkæri | wer/
+a împărți,to share/divide,verb,/a ɨm.pər.ˈt͡si/,/tuː ʃer | dɪˈvaɪd/
+a compara,to compare,verb,/a kom.pa.ˈra/,/tuː kəmˈper/
+a număra,to count,verb,/a nu.mə.ˈra/,/tuː kaʊnt/
+om,person/man,noun,/om/,/ˈpɜːrsən | mæn/
+bărbat,man,noun,/bər.ˈbat/,/mæn/
+femeie,woman,noun,/fe.ˈme.je/,/ˈwʊmən/
+copil,child,noun,/ko.ˈpil/,/tʃaɪld/
+prieten,friend,noun,/pri.ˈe.ten/,/frend/
+familie,family,noun,/fa.ˈmi.li.e/,/ˈfæməli/
+mamă,mother,noun,/ˈma.mə/,/ˈmʌðər/
+tată,father,noun,/ˈta.tə/,/ˈfɑːðər/
+frate,brother,noun,/ˈfra.te/,/ˈbrʌðər/
+soră,sister,noun,/ˈso.rə/,/ˈsɪstər/
+fiu,son,noun,/fiw/,/sʌn/
+fiică,daughter,noun,/ˈfi.i.kə/,/ˈdɔːtər/
+soț,husband,noun,/sot͡s/,/ˈhʌzbənd/
+soție,wife,noun,/ˈso.t͡si.e/,/waɪf/
+vecin,neighbor,noun,/ve.ˈt͡ʃin/,/ˈneɪbər/
+doctor,doctor,noun,/ˈdok.tor/,/ˈdɒktər/
+profesor,teacher/professor,noun,/pro.ˈfe.sor/,/ˈtiːtʃər | prəˈfesər/
+student,student,noun,/stu.ˈdent/,/ˈstjuːdənt/
+elev,pupil,noun,/e.ˈlev/,/ˈpjuːpəl/
+cap,head,noun,/kap/,/hed/
+mână,hand,noun,/ˈmɨ.nə/,/hænd/
+picior,leg/foot,noun,/pi.ˈt͡ʃor/,/leɡ | fʊt/
+ochi,eye,noun,/ˈokʲ/,/aɪ/
+gură,mouth,noun,/ˈɡu.rə/,/maʊθ/
+inimă,heart,noun,/ˈi.ni.mə/,/hɑːrt/
+corp,body,noun,/korp/,/ˈbɒdi/
+față,face,noun,/ˈfa.t͡sə/,/feɪs/
+nas,nose,noun,/nas/,/noʊz/
+ureche,ear,noun,/u.ˈre.ke/,/ɪər/
+braț,arm,noun,/brat͡s/,/ɑːrm/
+deget,finger,noun,/ˈde.d͡ʒet/,/ˈfɪŋɡər/
+casă,house,noun,/ˈka.sə/,/haʊs/
+școală,school,noun,/ˈʃko̯a.lə/,/skuːl/
+stradă,street,noun,/ˈstra.də/,/striːt/
+oraș,city,noun,/o.ˈraʃ/,/ˈsɪti/
+țară,country,noun,/ˈt͡sa.rə/,/ˈkʌntri/
+sat,village,noun,/sat/,/ˈvɪlɪdʒ/
+cameră,room,noun,/ˈka.me.rə/,/ruːm/
+piață,market/square,noun,/ˈpja.t͡sə/,/ˈmɑːrkɪt | skwer/
+magazin,store,noun,/ma.ɡa.ˈzin/,/stɔːr/
+restaurant,restaurant,noun,/res.taw.ˈrant/,/ˈrestrɒnt/
+hotel,hotel,noun,/ho.ˈtel/,/hoʊˈtel/
+spital,hospital,noun,/spi.ˈtal/,/ˈhɒspɪtəl/
+biserică,church,noun,/bi.ˈse.ri.kə/,/tʃɜːrtʃ/
+birou,office/desk,noun,/bi.ˈrow/,/ˈɒfɪs | desk/
+parc,park,noun,/park/,/pɑːrk/
+grădină,garden,noun,/ɡrə.ˈdi.nə/,/ˈɡɑːrdən/
+drum,road,noun,/drum/,/roʊd/
+pod,bridge,noun,/pod/,/brɪdʒ/
+apă,water,noun,/ˈa.pə/,/ˈwɔːtər/
+soare,sun,noun,/ˈso̯a.re/,/sʌn/
+lună,moon/month,noun,/ˈlu.nə/,/muːn | mʌnθ/
+cer,sky,noun,/t͡ʃer/,/skaɪ/
+pământ,earth/ground,noun,/pə.ˈmɨnt/,/ɜːrθ | ɡraʊnd/
+copac,tree,noun,/ko.ˈpak/,/triː/
+floare,flower,noun,/ˈflo̯a.re/,/ˈflaʊər/
+animal,animal,noun,/a.ni.ˈmal/,/ˈænɪməl/
+câine,dog,noun,/ˈkɨj.ne/,/dɒɡ/
+pisică,cat,noun,/pi.ˈsi.kə/,/kæt/
+pasăre,bird,noun,/ˈpa.sə.re/,/bɜːrd/
+pește,fish,noun,/ˈpeʃ.te/,/fɪʃ/
+munte,mountain,noun,/ˈmun.te/,/ˈmaʊntɪn/
+mare,sea,noun,/ˈma.re/,/siː/
+râu,river,noun,/rɨw/,/ˈrɪvər/
+lac,lake,noun,/lak/,/leɪk/
+pădure,forest,noun,/pə.ˈdu.re/,/ˈfɒrɪst/
+vânt,wind,noun,/vɨnt/,/wɪnd/
+ploaie,rain,noun,/ˈplo̯a.je/,/reɪn/
+zăpadă,snow,noun,/ˈzə.pa.də/,/snoʊ/
+timp,time,noun,/timp/,/taɪm/
+zi,day,noun,/zi/,/deɪ/
+noapte,night,noun,/ˈno̯ap.te/,/naɪt/
+an,year,noun,/an/,/jɪər/
+oră,hour,noun,/ˈo.rə/,/aʊər/
+săptămână,week,noun,/səp.tə.ˈmɨ.nə/,/wiːk/
+dimineață,morning,noun,/di.mi.ˈne̯a.t͡sə/,/ˈmɔːrnɪŋ/
+seară,evening,noun,/ˈse̯a.rə/,/ˈiːvnɪŋ/
+minut,minute,noun,/mi.ˈnut/,/ˈmɪnɪt/
+moment,moment,noun,/mo.ˈment/,/ˈmoʊmənt/
+trecut,past,noun,/tre.ˈkut/,/pæst/
+viitor,future,noun,/vi.i.ˈtor/,/ˈfjuːtʃər/
+mâncare,food,noun,/mɨn.ˈka.re/,/fuːd/
+pâine,bread,noun,/ˈpɨj.ne/,/bred/
+carne,meat,noun,/ˈkar.ne/,/miːt/
+lapte,milk,noun,/ˈlap.te/,/mɪlk/
+fruct,fruit,noun,/frukt/,/fruːt/
+legumă,vegetable,noun,/le.ˈɡu.mə/,/ˈvedʒtəbəl/
+masă,table/meal,noun,/ˈma.sə/,/ˈteɪbəl | miːl/
+carte,book,noun,/ˈkar.te/,/bʊk/
+ușă,door,noun,/ˈu.ʃə/,/dɔːr/
+fereastră,window,noun,/fe.ˈre̯as.trə/,/ˈwɪndoʊ/
+scaun,chair,noun,/ˈska.un/,/tʃer/
+pat,bed,noun,/pat/,/bed/
+telefon,telephone,noun,/te.le.ˈfon/,/ˈtelɪfoʊn/
+cheie,key,noun,/ˈke.je/,/kiː/
+lucru,thing/work,noun,/ˈlu.kru/,/θɪŋ | wɜːrk/
+problemă,problem,noun,/pro.ˈble.mə/,/ˈprɒbləm/
+viață,life,noun,/ˈvja.t͡sə/,/laɪf/
+moarte,death,noun,/ˈmo̯ar.te/,/deθ/
+dragoste,love,noun,/ˈdra.ɡos.te/,/lʌv/
+bucurie,joy,noun,/bu.ku.ˈri.e/,/dʒɔɪ/
+muncă,work,noun,/ˈmun.kə/,/wɜːrk/
+bani,money,noun,/banʲ/,/ˈmʌni/
+cuvânt,word,noun,/ku.ˈvɨnt/,/wɜːrd/
+limbă,language/tongue,noun,/ˈlim.bə/,/ˈlæŋɡwɪdʒ | tʌŋ/
+nume,name,noun,/ˈnu.me/,/neɪm/
+lege,law,noun,/ˈle.d͡ʒe/,/lɔː/
+idee,idea,noun,/i.ˈde.e/,/aɪˈdɪə/
+parte,part,noun,/ˈpar.te/,/pɑːrt/
+loc,place,noun,/lok/,/pleɪs/
+mod,way/manner,noun,/mod/,/weɪ | ˈmænər/
+scop,purpose,noun,/skop/,/ˈpɜːrpəs/
+motiv,reason,noun,/mo.ˈtiv/,/ˈriːzən/
+adevăr,truth,noun,/a.de.ˈvər/,/truːθ/
+putere,power,noun,/pu.ˈte.re/,/ˈpaʊər/
+pace,peace,noun,/ˈpa.t͡ʃe/,/piːs/
+război,war,noun,/rəz.ˈboj/,/wɔːr/
+lume,world,noun,/ˈlu.me/,/wɜːrld/
+mașină,car,noun,/ma.ˈʃi.nə/,/kɑːr/
+băiat,boy,noun,/bə.ˈjat/,/bɔɪ/
+bun,good,adjective,/bun/,/ɡʊd/
+rău,bad,adjective,/rəw/,/bæd/
+mare,big,adjective,/ˈma.re/,/bɪɡ/
+mic,small,adjective,/mik/,/smɔːl/
+nou,new,adjective,/now/,/njuː/
+vechi,old,adjective,/vekʲ/,/oʊld/
+bătrân,elderly,adjective,/bə.ˈtrɨn/,/ˈeldərli/
+tânăr,young,adjective,/ˈtɨ.nər/,/jʌŋ/
+frumos,beautiful,adjective,/fru.ˈmos/,/ˈbjuːtɪfəl/
+urât,ugly,adjective,/u.ˈrɨt/,/ˈʌɡli/
+lung,long,adjective,/lunɡ/,/lɒŋ/
+scurt,short,adjective,/skurt/,/ʃɔːrt/
+înalt,tall,adjective,/ɨ.ˈnalt/,/tɔːl/
+greu,heavy/difficult,adjective,/ɡrew/,/ˈhevi | ˈdɪfɪkəlt/
+ușor,easy/light,adjective,/u.ˈʃor/,/ˈiːzi | laɪt/
+cald,warm,adjective,/kald/,/wɔːrm/
+rece,cold,adjective,/ˈre.t͡ʃe/,/koʊld/
+frig,cold (weather),adjective,/friɡ/,/koʊld/
+bogat,rich,adjective,/bo.ˈɡat/,/rɪtʃ/
+sărac,poor,adjective,/sə.ˈrak/,/pʊər/
+fericit,happy,adjective,/fe.ri.ˈt͡ʃit/,/ˈhæpi/
+trist,sad,adjective,/trist/,/sæd/
+bolnav,sick,adjective,/bol.ˈnav/,/sɪk/
+sănătos,healthy,adjective,/sə.nə.ˈtos/,/ˈhelθi/
+puternic,strong,adjective,/pu.ˈter.nik/,/strɒŋ/
+slab,weak,adjective,/slab/,/wiːk/
+rapid,fast,adjective,/ˈra.pid/,/fɑːst/
+lent,slow,adjective,/lent/,/sloʊ/
+ieftin,cheap,adjective,/jef.ˈtin/,/tʃiːp/
+scump,expensive,adjective,/skump/,/ɪkˈspensɪv/
+plin,full,adjective,/plin/,/fʊl/
+gol,empty,adjective,/ɡol/,/ˈempti/
+deschis,open,adjective,/des.ˈkis/,/ˈoʊpən/
+închis,closed,adjective,/ɨn.ˈkis/,/kloʊzd/
+curat,clean,adjective,/ku.ˈrat/,/kliːn/
+murdar,dirty,adjective,/mur.ˈdar/,/ˈdɜːrti/
+sigur,sure/safe,adjective,/ˈsi.ɡur/,/ʃʊər | seɪf/
+periculos,dangerous,adjective,/pe.ri.ku.ˈlos/,/ˈdeɪndʒərəs/
+important,important,adjective,/im.por.ˈtant/,/ɪmˈpɔːrtənt/
+posibil,possible,adjective,/po.ˈsi.bil/,/ˈpɒsɪbəl/
+imposibil,impossible,adjective,/im.po.ˈsi.bil/,/ɪmˈpɒsɪbəl/
+diferit,different,adjective,/di.fe.ˈrit/,/ˈdɪfrənt/
+simplu,simple,adjective,/ˈsim.plu/,/ˈsɪmpəl/
+gata,ready,adjective,/ˈɡa.ta/,/ˈredi/
+liber,free,adjective,/ˈli.ber/,/friː/
+ocupat,busy/occupied,adjective,/o.ku.ˈpat/,/ˈbɪzi | ˈɒkjupaɪd/
+singur,alone,adjective,/ˈsin.ɡur/,/əˈloʊn/
+alb,white,adjective,/alb/,/waɪt/
+negru,black,adjective,/ˈne.ɡru/,/blæk/
+roșu,red,adjective,/ˈro.ʃu/,/red/
+albastru,blue,adjective,/al.ˈbas.tru/,/bluː/
+verde,green,adjective,/ˈver.de/,/ɡriːn/
+galben,yellow,adjective,/ˈɡal.ben/,/ˈjeloʊ/
+drept,right/straight,adjective,/drept/,/raɪt | streɪt/
+stâng,left,adjective,/stɨnɡ/,/left/
+dulce,sweet,adjective,/ˈdul.t͡ʃe/,/swiːt/
+amar,bitter,adjective,/a.ˈmar/,/ˈbɪtər/
+proaspăt,fresh,adjective,/ˈpro̯as.pət/,/freʃ/
+perfect,perfect,adjective,/per.ˈfekt/,/ˈpɜːrfɪkt/
+normal,normal,adjective,/nor.ˈmal/,/ˈnɔːrməl/
+foarte,very,adverb,/ˈfo̯ar.te/,/ˈveri/
+bine,well,adverb,/ˈbi.ne/,/wel/
+aici,here,adverb,/a.ˈit͡ʃʲ/,/hɪər/
+acolo,there,adverb,/a.ˈko.lo/,/ðer/
+acum,now,adverb,/a.ˈkum/,/naʊ/
+apoi,then,adverb,/a.ˈpoj/,/ðen/
+astăzi,today,adverb,/as.ˈtə.zʲ/,/təˈdeɪ/
+ieri,yesterday,adverb,/jerʲ/,/ˈjestərdeɪ/
+mâine,tomorrow,adverb,/ˈmɨj.ne/,/təˈmɒroʊ/
+întotdeauna,always,adverb,/ɨn.tot.de̯a.ˈu.na/,/ˈɔːlweɪz/
+niciodată,never,adverb,/ni.t͡ʃo.ˈda.tə/,/ˈnevər/
+uneori,sometimes,adverb,/u.ne.ˈorʲ/,/ˈsʌmtaɪmz/
+adesea,often,adverb,/a.de.ˈse̯a/,/ˈɒfən/
+repede,quickly,adverb,/ˈre.pe.de/,/ˈkwɪkli/
+încet,slowly,adverb,/ɨn.ˈt͡ʃet/,/ˈsloʊli/
+sus,up,adverb,/sus/,/ʌp/
+jos,down,adverb,/ʒos/,/daʊn/
+înainte,before/forward,adverb,/ɨ.na.ˈin.te/,/bɪˈfɔːr | ˈfɔːrwərd/
+aproape,near/almost,adverb,/a.ˈpro̯a.pe/,/nɪər | ˈɔːlmoʊst/
+departe,far,adverb,/de.ˈpar.te/,/fɑːr/
+mult,much/a lot,adverb,/mult/,/mʌtʃ | ə lɒt/
+puțin,little/few,adverb,/pu.ˈt͡sin/,/ˈlɪtəl | fjuː/
+destul,enough,adverb,/des.ˈtul/,/ɪˈnʌf/
+poate,maybe,adverb,/ˈpo̯a.te/,/ˈmeɪbi/
+încă,still/yet,adverb,/ˈɨn.kə/,/stɪl | jet/
+tocmai,just/exactly,adverb,/ˈtok.maj/,/dʒʌst | ɪɡˈzæktli/
+imediat,immediately,adverb,/i.me.di.ˈat/,/ɪˈmiːdiətli/
+devreme,early,adverb,/de.ˈvre.me/,/ˈɜːrli/
+târziu,late,adverb,/tɨr.ˈzju/,/leɪt/
+împreună,together,adverb,/ɨm.pre.ˈu.nə/,/təˈɡeðər/
+afară,outside,adverb,/a.ˈfa.rə/,/ˌaʊtˈsaɪd/
+înăuntru,inside,adverb,/ɨ.nə.ˈun.tru/,/ˌɪnˈsaɪd/
+peste tot,everywhere,adverb,/ˈpes.te tot/,/ˈevrɪwer/
+nicăieri,nowhere,adverb,/ni.kə.ˈjerʲ/,/ˈnoʊwer/
+altfel,otherwise,adverb,/ˈalt.fel/,/ˈʌðərwaɪz/
+desigur,of course,adverb,/de.ˈsi.ɡur/,/əv kɔːrs/
+probabil,probably,adverb,/pro.ˈba.bil/,/ˈprɒbəbli/
+bună ziua,hello/good day,greeting,/ˈbu.nə ˈzi.wa/,/həˈloʊ | ɡʊd deɪ/
+bună dimineața,good morning,greeting,/ˈbu.nə di.mi.ˈne̯a.t͡sa/,/ɡʊd ˈmɔːrnɪŋ/
+bună seara,good evening,greeting,/ˈbu.nə ˈse̯a.ra/,/ɡʊd ˈiːvnɪŋ/
+noapte bună,good night,greeting,/ˈno̯ap.te ˈbu.nə/,/ɡʊd naɪt/
+la revedere,goodbye,greeting,/la re.ve.ˈde.re/,/ɡʊdˈbaɪ/
+pa,bye,greeting,/pa/,/baɪ/
+salut,hi,greeting,/sa.ˈlut/,/haɪ/
+ce mai faci,how are you,phrase,/t͡ʃe maj fat͡ʃʲ/,/haʊ ɑːr juː/
+bine mulțumesc,fine thank you,phrase,/ˈbi.ne mul.t͡su.ˈmesk/,/faɪn θæŋk juː/
+mulțumesc,thank you,phrase,/mul.t͡su.ˈmesk/,/θæŋk juː/
+mulțumesc mult,thank you very much,phrase,/mul.t͡su.ˈmesk mult/,/θæŋk juː ˈveri mʌtʃ/
+cu plăcere,you're welcome,phrase,/ku plə.ˈt͡ʃe.re/,/jɔːr ˈwelkəm/
+vă rog,please (formal),phrase,/və roɡ/,/pliːz/
+te rog,please (informal),phrase,/te roɡ/,/pliːz/
+scuzați-mă,excuse me (formal),phrase,/sku.ˈza.t͡sʲ mə/,/ɪkˈskjuːz miː/
+scuză-mă,excuse me (informal),phrase,/ˈsku.zə mə/,/ɪkˈskjuːz miː/
+îmi pare rău,I'm sorry,phrase,/ɨmʲ ˈpa.re rəw/,/aɪm ˈsɒri/
+nu înțeleg,I don't understand,phrase,/nu ɨn.ˈt͡se.leɡ/,/aɪ doʊnt ˌʌndərˈstænd/
+vorbiți engleza,do you speak English,phrase,/vor.ˈbit͡sʲ en.ˈɡle.za/,/duː juː spiːk ˈɪŋɡlɪʃ/
+bineînțeles,of course,phrase,/bi.ne.ɨn.t͡se.ˈles/,/əv kɔːrs/
+noroc,cheers/good luck,exclamation,/no.ˈrok/,/tʃɪərz | ɡʊd lʌk/
+sănătate,health/bless you,exclamation,/sə.nə.ˈta.te/,/helθ | bles juː/
+pe curând,see you soon,greeting,/pe ku.ˈrɨnd/,/siː juː suːn/
+pe mâine,see you tomorrow,greeting,/pe ˈmɨj.ne/,/siː juː təˈmɒroʊ/
+cum te numești,what is your name,phrase,/kum te nu.ˈmeʃtʲ/,/wɒt ɪz jɔːr neɪm/
+mă numesc,my name is,phrase,/mə nu.ˈmesk/,/maɪ neɪm ɪz/
+de unde ești,where are you from,phrase,/de ˈun.de jeʃtʲ/,/wer ɑːr juː frɒm/
+câți ani ai,how old are you,phrase,/kɨt͡sʲ anʲ aj/,/haʊ oʊld ɑːr juː/
+cât costă,how much does it cost,phrase,/kɨt ˈkos.tə/,/haʊ mʌtʃ dʌz ɪt kɒst/
+unde este,where is,phrase,/ˈun.de ˈjes.te/,/wer ɪz/
+ce este asta,what is this,phrase,/t͡ʃe ˈjes.te ˈas.ta/,/wɒt ɪz ðɪs/
+ajutor,help!,exclamation,/a.ʒu.ˈtor/,/help/
+atenție,attention!,exclamation,/a.ˈten.t͡si.e/,/əˈtenʃən/
+la mulți ani,happy birthday,exclamation,/la mult͡sʲ anʲ/,/ˈhæpi ˈbɜːrθdeɪ/
+bun venit,welcome,greeting,/bun ve.ˈnit/,/ˈwelkəm/
+vă mulțumesc,thank you (formal),phrase,/və mul.t͡su.ˈmesk/,/θæŋk juː/
+nu știu,I don't know,phrase,/nu ˈʃti.u/,/aɪ doʊnt noʊ/
+nu contează,it doesn't matter,phrase,/nu kon.ˈte̯a.zə/,/ɪt ˈdʌznt ˈmætər/
+totul e bine,everything is fine,phrase,/ˈto.tul je ˈbi.ne/,/ˈevriθɪŋ ɪz faɪn/
+fel,kind/way,noun,/fel/,/kaɪnd | weɪ/
+dată,time/date,noun,/ˈda.tə/,/taɪm | deɪt/
+caz,case,noun,/kaz/,/keɪs/
+trebuie,must,particle,/ˈtre.bu.je/,/mʌst/
+fiecare,each/every,pronoun,/fje.ˈka.re/,/iːtʃ | ˈevri/
+alt,other/another,determiner,/alt/,/ˈʌðər | əˈnʌðər/
+același,same,pronoun,/a.t͡ʃe.ˈlaʃʲ/,/seɪm/
+propriu,own,adjective,/ˈpro.prju/,/oʊn/
+mulți,many,adjective,/mult͡sʲ/,/ˈmeni/
+câteva,some/a few,pronoun,/ˈkɨ.te.va/,/sʌm | ə fjuː/
+primul,first,adjective,/ˈpri.mul/,/fɜːrst/
+ultimul,last,adjective,/ˈul.ti.mul/,/lɑːst/
+exact,exactly,adverb,/eɡ.ˈzakt/,/ɪɡˈzæktli/
+totuși,however/still,adverb,/to.ˈtu.ʃʲ/,/haʊˈevər | stɪl/
+însă,however,conjunction,/ˈɨn.sə/,/haʊˈevər/
+deci,so/therefore,conjunction,/ˈde.t͡ʃʲ/,/soʊ | ˈðerfɔːr/
+atunci,then,adverb,/a.ˈtunt͡ʃʲ/,/ðen/
+iată,behold/here is,interjection,/ˈja.tə/,/bɪˈhoʊld | hɪər ɪz/
+orice,anything,pronoun,/o.ri.ˈt͡ʃe/,/ˈeniθɪŋ/
+cineva,someone,pronoun,/t͡ʃi.ˈne.va/,/ˈsʌmwʌn/
+nimeni,nobody,pronoun,/ni.ˈmenʲ/,/ˈnoʊbɒdi/
+ceva,something,pronoun,/t͡ʃe.ˈva/,/ˈsʌmθɪŋ/
+nimic,nothing,pronoun,/ni.ˈmik/,/ˈnʌθɪŋ/
+oriunde,anywhere,adverb,/o.ri.ˈun.de/,/ˈenɪwer/
+altcineva,someone else,pronoun,/alt.t͡ʃi.ˈne.va/,/ˈsʌmwʌn els/
+amândoi,both,pronoun,/a.mɨn.ˈdoj/,/boʊθ/
+dintre,among/between,preposition,/ˈdin.tre/,/əˈmʌŋ | bɪˈtwiːn/
+de asemenea,also,adverb,/de a.se.ˈme.ne̯a/,/ˈɔːlsoʊ/
+fată,girl,noun,/ˈfa.tə/,/ɡɜːrl/
+doamnă,lady/Mrs.,noun,/ˈdo̯am.nə/,/ˈleɪdi | ˈmɪsɪz/
+domn,gentleman/Mr.,noun,/domn/,/ˈdʒentlmən | ˈmɪstər/
+număr,number,noun,/ˈnu.mər/,/ˈnʌmbər/
+vreme,weather/time,noun,/ˈvre.me/,/ˈweðər | taɪm/
+aer,air,noun,/a.ˈer/,/er/
+foc,fire,noun,/fok/,/ˈfaɪər/
+hârtie,paper,noun,/hɨr.ˈti.e/,/ˈpeɪpər/
+necesar,necessary,adjective,/ne.t͡ʃe.ˈsar/,/ˈnesəseri/
+corect,correct,adjective,/ko.ˈrekt/,/kəˈrekt/
+greșit,wrong/mistaken,adjective,/ɡre.ˈʃit/,/rɒŋ | mɪˈsteɪkən/
+plăcut,pleasant,adjective,/plə.ˈkut/,/ˈplezənt/
+mereu,always/constantly,adverb,/me.ˈrew/,/ˈɔːlweɪz | ˈkɒnstəntli/
+curând,soon,adverb,/ku.ˈrɨnd/,/suːn/
+mi-e foame,I'm hungry,phrase,/mje ˈfo̯a.me/,/aɪm ˈhʌŋɡri/
+ce faci,what are you doing,phrase,/t͡ʃe fat͡ʃʲ/,/wɒt ɑːr juː ˈduːɪŋ/
