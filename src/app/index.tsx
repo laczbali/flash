@@ -1,6 +1,7 @@
 import SegmentedControl from "@/components/SegmentedControl";
 import { colors, spacing } from "@/constants/theme";
 import { Ionicons } from "@expo/vector-icons";
+import { useRouter } from "expo-router";
 import { useState } from "react";
 import {
   Pressable,
@@ -16,6 +17,7 @@ type Direction = "en-target" | "target-en" | "both";
 type Language = { name: string; code: string };
 
 export default function HomeScreen() {
+  const router = useRouter();
   const [studyMode, setStudyMode] = useState<StudyMode>("manual");
   const [direction, setDirection] = useState<Direction>("en-target");
 
@@ -90,6 +92,7 @@ export default function HomeScreen() {
         {/* Learn New Words */}
         <Pressable
           style={styles.actionButton}
+          onPress={() => router.push({ pathname: "/category-selection", params: { mode: "learn" } })}
         >
           <View style={styles.iconCircle}>
             <Ionicons name="add-circle" size={26} color={colors.primary} />
@@ -109,6 +112,7 @@ export default function HomeScreen() {
         {/* Review Known */}
         <Pressable
           style={styles.actionButton}
+          onPress={() => router.push({ pathname: "/category-selection", params: { mode: "review" } })}
         >
           <View style={styles.iconCircle}>
             <Ionicons name="book-outline" size={22} color={colors.primary} />
